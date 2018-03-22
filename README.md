@@ -8,3 +8,11 @@ This library is currently a work in progress.
 ## Usage
 
 Please see the `examples` directory.
+
+## Build
+
+Build examples and tests
+```
+$ cargo build --examples
+$ cargo build --tests
+```
